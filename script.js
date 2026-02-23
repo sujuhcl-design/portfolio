@@ -60,7 +60,33 @@ document.addEventListener('DOMContentLoaded', () => {
         observer.observe(el);
     });
 
-    // 4. Mobile Navigation Hamburger Menu
+    // 4. Dark/Light Mode Theme Toggle
+    const themeToggleBtn = document.getElementById('theme-toggle');
+    const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+
+    // Check local storage or system preference
+    const currentTheme = localStorage.getItem('theme');
+    if (currentTheme === 'light') {
+        document.body.classList.add('light-theme');
+    } else if (currentTheme === 'dark') {
+        document.body.classList.remove('light-theme');
+    } else if (!prefersDarkScheme.matches) {
+        // Only default to light if they explicitly don't prefer dark
+        document.body.classList.add('light-theme');
+    }
+
+    if (themeToggleBtn) {
+        themeToggleBtn.addEventListener('click', () => {
+            document.body.classList.toggle('light-theme');
+            let theme = 'dark';
+            if (document.body.classList.contains('light-theme')) {
+                theme = 'light';
+            }
+            localStorage.setItem('theme', theme);
+        });
+    }
+
+    // 5. Mobile Navigation Hamburger Menu
     const hamburger = document.querySelector('.hamburger');
     const navLinksList = document.querySelector('.nav-links');
 
