@@ -61,10 +61,12 @@
 html {
     scroll-behavior: smooth;
     font-size: 16px;
+    background-color: var(--bg-primary);
 }
 
 body {
-    background-color: var(--bg-primary);
+    background-color: transparent;
+    isolation: isolate;
     color: var(--text-primary);
     font-family: var(--font-body);
     line-height: 1.6;
@@ -83,6 +85,7 @@ body {
     left: 0;
     width: 100vw;
     height: 100vh;
+    height: 100dvh;
     z-index: -1;
     overflow: hidden;
     background-color: var(--bg-primary);
@@ -104,6 +107,11 @@ body {
     transform: perspective(500px) rotateX(60deg) translateY(-100px) translateZ(-200px);
     animation: gridMove 20s linear infinite;
     opacity: 0.6;
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    will-change: transform;
 }
 
 .light-theme .bg-grid {
@@ -132,6 +140,7 @@ body {
     opacity: 0.12;
     /* Low contrast so text remains highly readable */
     animation: floatGlow 15s ease-in-out infinite alternate;
+    will-change: transform;
 }
 
 .glow-1 {
