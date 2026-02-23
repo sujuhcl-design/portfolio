@@ -52,7 +52,86 @@ body {
     line-height: 1.6;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+/* ==========================================================================
+   Animated Background Graphic (Low-Contrast, CSS-Only)
+   ========================================================================== */
+.bg-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    overflow: hidden;
+    background-color: var(--bg-primary);
+    pointer-events: none;
+    /* Prevents interference with clicks */
+}
+
+/* Abstract Tech Wireframe/Grid Pattern */
+.bg-grid {
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background-image:
+        linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+    background-size: 50px 50px;
+    transform: perspective(500px) rotateX(60deg) translateY(-100px) translateZ(-200px);
+    animation: gridMove 20s linear infinite;
+    opacity: 0.6;
+}
+
+@keyframes gridMove {
+    0% {
+        transform: perspective(500px) rotateX(60deg) translateY(0) translateZ(-200px);
+    }
+
+    100% {
+        transform: perspective(500px) rotateX(60deg) translateY(50px) translateZ(-200px);
+    }
+}
+
+/* Soft Liquid Gradients */
+.bg-liquid-glow {
+    position: absolute;
+    width: 60vw;
+    height: 60vw;
+    border-radius: 50%;
+    filter: blur(120px);
+    opacity: 0.12;
+    /* Low contrast so text remains highly readable */
+    animation: floatGlow 15s ease-in-out infinite alternate;
+}
+
+.glow-1 {
+    background: radial-gradient(circle, var(--accent-neon), transparent 70%);
+    top: -10%;
+    left: -10%;
+}
+
+.glow-2 {
+    background: radial-gradient(circle, #3b82f6, transparent 70%);
+    /* Subtle blue variation */
+    bottom: -10%;
+    right: -10%;
+    animation-delay: -7s;
+}
+
+@keyframes floatGlow {
+    0% {
+        transform: translate(0, 0) scale(1);
+    }
+
+    100% {
+        transform: translate(8%, 8%) scale(1.1);
+    }
 }
 
 h1,
@@ -239,6 +318,8 @@ img {
     border-radius: 3px;
 }
 
+
+
 @media (max-width: 768px) {
     .hamburger {
         display: flex;
@@ -258,10 +339,6 @@ img {
         transition: left var(--transition-normal);
         z-index: 1000;
         gap: 2.5rem;
-    }
-
-    .nav-links.active {
-        left: 0;
     }
 
     .nav-links li a {
@@ -333,6 +410,17 @@ img {
 .hero-actions {
     display: flex;
     gap: 1rem;
+}
+
+@media (max-width: 576px) {
+    .hero-actions {
+        flex-direction: column;
+    }
+
+    .hero-actions .btn {
+        text-align: center;
+        width: 100%;
+    }
 }
 
 @media (max-width: 576px) {
