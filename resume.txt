@@ -1,0 +1,533 @@
+
+   Suju Nair : Counterparty Credit Risk Tech Sr Business Analyst /Product
+                                    Owner
+
+
+
+Ph    : +353 894185586
+E-Mail      : sujunair@gmail.com
+LinkedIn    : www.linkedin.com/in/suju-n-2b412b17
+
+Work Status Ireland – Irish Citizen
+
+
+Results-driven  Product  Owner  with  deep  domain  expertise  in  financial
+services, specializing in data-driven product delivery  across  Counterparty
+Credit Risk, Commercial Lending, Market  Risk,  Payments,  Digital  Banking,
+Treasury, and Money Market platforms
+
+
+|Skill Synopsis                                                                 |
+|Business Analysis & Delivery Leadership                                        |
+|Lead requirements workshops and stakeholder sessions across Risk, Credit,      |
+|Quant, and Technology teams.                                                   |
+|Produce high-quality Business & Functional documentation (BRD, FSD, RTM),      |
+|ensuring traceability from regulatory observations to technical delivery.      |
+|Estimate project costs, effort, and delivery timelines, supporting effective   |
+|planning, governance, and prioritisation.                                      |
+|Manage senior stakeholders across multiple concurrent regulatory, audit, and   |
+|risk initiatives in a complex banking environment.                             |
+|Mentor interns and junior Business Analysts, and support BA hiring and         |
+|onboarding for projects within the Dublin office.                              |
+|                                                                               |
+|Risk, Regulatory & Data Expertise                                              |
+|Deep domain expertise in Counterparty Credit Risk IT requirements, including   |
+|exposure analytics, aggregation, and reporting.                                |
+|Support and respond to system, data, and control queries arising from ECB, FCA,|
+|and FRB regulatory examinations.                                               |
+|Contribute to data lineage, governance, and controls initiatives within the    |
+|Counterparty Credit Risk data domain.                                          |
+|Deliver regulatory and stress-testing driven enhancements in collaboration with|
+|Risk Managers and Credit Officers.                                             |
+|                                                                               |
+|Agile & Product Delivery                                                       |
+|Extensive experience working in Agile environments (Scrum, Kanban), including  |
+|user story definition, backlog refinement, prioritisation, and sprint delivery.|
+|Coordinate and support end-to-end testing activities across SIT, UAT, and      |
+|Business Acceptance Testing (BAT).                                             |
+|Drive cross-functional collaboration to deliver initiatives across Global      |
+|Banking and Credit Risk Management platforms.                                  |
+|                                                                               |
+|Technology & Data Skills                                                       |
+|SQL (Advanced): Extensive hands-on experience across Sybase, Teradata, Oracle, |
+|and SQL Server, supporting analysis, validation, and issue resolution.         |
+|Python: Basic scripting and analytical capability to support data analysis and |
+|validation tasks.                                                              |
+|Strong familiarity with enterprise tooling: Jira, Confluence, Octane           |
+|                                                                               |
+|AI-Augmented Delivery & Tooling                                                |
+|Leverage AI tools including GPT-5.2 (Codex, Agent, Ask Mode) and GitHub Copilot|
+|to accelerate analysis, documentation, and solution design.                    |
+|Took personal initiative to design and deploy an Agentic AI solution using     |
+|GitHub Copilot and MCP server integration with Jira, enabling autonomous       |
+|querying of epics, stories and releases without manual JQL. The agent          |
+|independently generates Acceptance Criteria, functional and non-functional     |
+|requirements, creates sub-tasks and updates Jira directly — significantly      |
+|reducing sprint preparation effort and freeing capacity for higher-value       |
+|delivery work.                                                                 |
+|Use Microsoft Copilot to create UI mock-ups, summarise complex discussions, and|
+|rapidly translate regulatory and business requirements into delivery-ready     |
+|artefacts.                                                                     |
+|Proficient with modern IDEs: Visual Studio Code and IntelliJ IDEA.             |
+|                                                                               |
+
+
+
+Professional Experience Summary
+
+|S.No|Organisation                           |Role                  |Experience   |
+|1   |Bank of America (Dublin Ireland)       |Vice President –      |July-2022 –  |
+|    |                                       |Analyst II            |Till Date    |
+|2   |NTT Data Ireland LTD – Allied Irish    |Business Analyst      |Oct 2021 –   |
+|    |Bank (Dublin Ireland)                  |(Contractor)          |June-2022    |
+|3   |Bank of America  (Dublin Ireland)      |Business Analyst      |Oct 2019 –   |
+|    |                                       |(Contractor)          |Oct 2021     |
+|4   |Cognizant Technologies Ltd– Bank of    |Lead Business Analyst |Feb 2019 –   |
+|    |Ireland (Dublin Ireland)               |(Contractor)          |Sept 2019    |
+|5   |Citco Bank Netherlands B.V (Dublin     |T24 Business Analyst  |Apr 2016 –   |
+|    |Irelenad)                              |(Contractor)          |Feb 2019     |
+|6   |Dell Tech Services Ireland LTD – Allied|IT Business Consultant|Oct 2014 –   |
+|    |Irish Bank (Dublin Ireland)            |                      |Mar 2016     |
+|7   |HCL Technologies Ireland LTD – Bank of |Sr. Business Analyst  |Nov 2011 –   |
+|    |Ireland (Dublin Ireland)               |                      |Oct 2014     |
+|8   |HCL Technologies India LTD - Bank of   |Business Analyst      |June 2010 –  |
+|    |Ireland (Chennai India)                |                      |Nov 2011     |
+|9   |Chemoil Advanced Management Services   |Risk Analyst          |Jan 2008 –   |
+|    |LTD – (Chennai India)                  |                      |May 2010     |
+|10  |HSBC BANK LTD – Chennai India          |Assistant Manager     |Feb 2007 –   |
+|    |                                       |                      |Dec 2007     |
+
+
+Professional Experience Details
+
+Bank                               of                                America
+                   (Jul’2022- Till Date)
+Senior Business Analyst, Product Owner Counterparty Credit Risk Tech
+Domain: Banking & Financial Services
+Vice President –Analyst II
+
+Role: Product Ownership and Delivery Leadership,  Counterparty  Credit  Risk
+Technology
+
+   • Ownership  of  end-to-end  requirements  across  multiple  Counterparty
+     Credit Risk applications, including consolidation  of  business  needs,
+     clarification with stakeholders and translation  into  clear,  testable
+     specifications.
+      o Delivered Counterparty Credit Risk solutions covering Potential
+        Exposure (PE) and Settlement Risk (Maximum Daily Delivery Exposure)
+        using Monte Carlo-based analytics across multi-tenor horizons.
+      o  Drove aggregation and reporting of exposure data across
+        counterparty, legal entity, and product hierarchies, sourcing
+        analytics into Sybase and surfacing insights via enterprise risk
+        UIs.
+      o  Owned regulatory and stress-testing driven enhancements,
+        translating complex risk and quantitative requirements into user
+        stories delivered by technology teams.
+      o  Collaborated closely with Risk, Quant, Credit, and Technology
+        stakeholders to ensure accurate, scalable, and regulator-ready CCR
+        platforms.
+   • Ensure delivery of regulatory (MRA, MRIA) changes associated to our
+     focus areas
+   • Gather requirements from senior stakeholders and  replay  them  to  our
+     development teams
+   • Create story maps and user stories, identify  sequence  of  development
+     and dependencies
+   • Identify, triage issues and ensure delivery timelines are adhered
+   • Leadership of cross-functional teams to deliver strategic  initiatives,
+     including  coordination  of  analysis,  design,  development,  testing,
+     release  activities  and  post  deployment  validation,  as   well   as
+     representation of changes in governance and stakeholder forums.
+   • Analysis and resolution  of  system  and  data-related  queries  raised
+     during  ECB,  FCA  and  FRB  regulatory  examinations,  ensuring   data
+     accuracy,  auditability,  transparency  of  methodologies  and   robust
+     documentation of responses.
+   • Conduct post development user testing to  ensure  requirement  coverage
+     and end user communication.
+   • Execution of Counterparty Credit Risk data attribute  lineage  analysis
+     and updates, enhancing transparency, traceability  and  control  across
+     upstream and downstream systems
+   • Management and mentoring of junior analysts from  intern  and  graduate
+     programmes, including day-to-day guidance,  performance  feedback,  and
+     participation  in  screening  and  interviewing  of  business   analyst
+     candidates across the Dublin campus.
+
+
+   • AI-Assisted Product & Engineering Enablement
+      o Utilized AI copilots and GPT-based tools to draft and refine clear,
+        testable acceptance criteria, improving story quality and reducing
+        rework during sprint execution.
+      o Use Microsoft Copilot to rapidly create UI mock-ups and interaction
+        flows for Counterparty Credit Risk dashboards, accelerating
+        validation of regulatory and risk requirements with stakeholders.
+      o Applied AI assistance to summarize Business Requirement Documents
+        (BRDs) into concise, actionable user stories and delivery
+        artifacts.
+      o Used AI tools to summarize stakeholder emails, meeting discussions,
+        and decisions, ensuring consistent communication and faster
+        alignment across cross-functional teams.
+      o Accelerated analysis of Java applications by using AI-assisted code
+        exploration in IDEs (VS Code, IntelliJ) to understand
+        functionality, flows, and technical constraints.
+      o Built an Agentic AI agent that connects GitHub Copilot to Jira,
+        autonomously handling story lookups, requirements generation and
+        Jira updates — significantly cutting sprint preparation effort
+
+
+NTT                              DATA                               Services
+                                                    (Oct’2021-    June’2022)
+
+Business Analyst, Loan Origination & Monitoring
+Domain: Banking & Financial Services
+DELL’s Customer: Allied Irish Bank
+Self Employed – IT Contractor
+
+Role: Business Analyst (Loan Origination & Monitoring)
+
+   • Group Connected Exposure: EBA regulation on loan monitoring  and  large
+     exposure reporting
+      o Gather Requirements, develop user EPICs and write user stories
+        /acceptance criteria
+      o Refine backlog and liaise with Product Owner to confirm scope
+      o Consolidate and propose transitional and strategic solution roadmap
+      o Conduct Scoping Sessions and track requirement backlog
+      o Create AS-IS/TO-BE process maps for various credit origination
+        engines within bank
+      o Gather performance related requirements along with UI and UX
+        elements
+      o Support Development queries
+      o Support system testing and UAT testing
+
+
+
+Bank                               of                                America
+                 (Oct’2019- Oct’2021)
+Business Analyst, Counterparty Credit and Market Risk Tech
+Domain: Banking & Financial Services
+Self Employed – IT Contractor
+
+Role: Business Analysis Support Data Domain (Counterparty  Credit  &  Market
+Risk)
+
+  • Responsible for application stability related initiatives tracking  and
+    management summary
+       o Workstreams: Data Quality, Feed Timeliness, Application Performance
+
+
+       o Action Management & Tracking
+       o Key Metrics Development and Dissemination
+       o Support Senior Management with Actionable Insights from metrics
+  • Business Analyst for the exposure explains data analysis team
+  • Business Analyst for Feed Monitoring tool enhancement
+  • Data feeds lineage analysis
+  • Business change UAT support and co-ordination
+  • User story development and backlog refinement for projects
+
+
+
+
+
+
+
+
+
+
+Cognizant              Technologies               Ltd,               Ireland
+                           (Feb’2019-Sept’2019)
+Lead Business Analyst & T24 Consultant (Customer Migration)
+Domain: Banking & Financial Services (Bank of Ireland)
+Self Employed – IT Contractor
+
+Role:  Business  Requirement  Gathering  and  Documentation,  T24   Customer
+Migration
+
+    • Conducting Source System Data Mapping Workshops
+    • Document customer record survivorship rules for bank wide Customer
+      Integration Engine
+    • Document Data Quality rules for source to target data transformation
+    • Document and Track workshop output/Issues
+    • Document overall migration strategy with inputs from multiple
+      stakeholders
+    • Document signoffs and walkthrough sessions with stakeholders
+    • Co-ordinate and support other BAs on the project.
+    • Provide Data Analysis using Teradata SQL (E.G SQL for field population
+      percentage across data transformation stages)
+    • Current Projects:
+       o T24 Customer Migration (Core Banking Systems)
+       o T24 Product Holdings Migration
+       o Source data cleansing activities
+       o Single Customer View
+       o Digital ID Migration from Legacy Systems (B365 to T24 Migration).
+
+
+
+
+Citco           Bank           Netherlands           B.V,            Ireland
+                                         (Apr’2016-Feb’2019)
+Business Analyst & T24 Consultant (Internet Banking, Treasury)
+Domain: Banking & Financial Services
+Self Employed – IT Contractor
+
+Role:  Business  Requirement  Gathering  and   Documentation,   T24   system
+configuration
+
+Business Analysis
+    • Gather and document business requirements
+    • Created business process flow diagrams using visio
+    • Facilitate QA and Business testing
+    • Production support via Service Desk application
+    • Business Areas
+       o Treasury
+       o Internet Banking
+
+
+Projects
+  • Citco Banking Online – Corporate Internet Banking Application
+  • GDPR Requirements around customer Data
+  • PSD II
+       o Strong Customer Authentication – Requirements Gathering
+  • Online Payment Validations – Account with Institution / Intermediary
+    Details. IBAN country. Country/Institution Mismatch validations
+
+Temenos T24 Consultant
+      • Configure system as per business requirements using product manuals
+      • Engage with product vendor for defects fixes
+      • Test new functionality to ensure requirement coverage
+      • Document gaps and workarounds
+      • Create standard work instructions for BAU
+      • Create user manuals for new online banking portal (Citco Banking
+        Online)
+
+
+
+
+DELL          TECHNOLOGY           SERVICES           LTD,           Ireland
+           (Oct’2014-Mar’2016)
+Business Consultant (Data Services)
+Domain: Banking & Financial Services
+DELL’s Customer: Allied Irish Bank
+
+Role: Data/Systems consultant within the  Data  Services  team.  Responsible
+for Finance  related  projects  and  enhancements  on  the  Enterprise  Wide
+Datawarehouse (EDW) primarily worked on Agile Projects
+
+System Integration – Data Reporting Layer
+  • Requirement gathering and documentation for new systems to be
+    incorporated into the Finance Data Mart, we were part of the Data
+    Analytics team (sub function data services)
+  • Data Mapping for integration with existing enterprise-wide tables
+  • Business Queries & Issues in relation to data quality (Data/Issue
+    Analysis and IT resolution)
+  • System Testing & BAT Support
+Financial Reporting & Company Reporting
+      • Reconcile data for accurate financial reporting
+      • Ensure correct data mapping for accurate GL roll ups for the various
+        balance sheet and P/L items
+      • Ensuring data quality and identifying gaps
+
+
+Regulatory Reporting
+      • LRFTP – IT Requirements, Data mapping, Data Reconciliation
+      • Basel Reporting Requirements
+      • CRDIV Requirements – Data Integration
+      • Enterprise collateral database (Data Transformation and System
+        Testing)
+      • Mortgage Collaterals: Solicitors Undertaking Status Reporting
+      • EBS System Integrations (SAM, LAS, MIDAS. Third Party Mgmt)
+
+
+
+
+HCL              TECHNOLOGIES              LTD,              Chennai/Ireland
+                             (Jun’2010-Oct 2014)
+Sr. Business Analyst
+Domain: Banking & Financial Services
+HCL’s Customer: Bank of Ireland
+
+Role: Business/Systems Analyst as part of the bank’s  change  delivery  team
+(Corporate Loans and Treasury).
+
+Projects handled:
+
+ACBS Datamart Extracts and Business Object Reports
+       • Requirement Gathering
+       • Datamart field mapping
+       • Functional Spec/BRD creation
+  • Support Development approach functionally (Validate all fields and
+    tables as mentioned in the spec and make sure the respective datamart
+    fields are populated and if not suggest alternate fields that will
+    fulfill the requirement)
+       • Validate Unit/UAT Test Data by querying the datamart for expected
+         results
+       • Co-ordinate onshore and offshore development effort
+
+BOBJ Reports
+      • ACBS Cash Flow Extract
+      • ACBS bank set up changes (create new loan indexes, new fee types,
+        industry classification codes …)
+      • NAMA (National Asset Management Agency) – Regulatory Reporting:
+      • Monthly & Weekly Cash Received Report Facility and Loan Level Daily
+        Facility/Loan Detail Amendment Feed
+      • Interest Rate Amendment Report
+      • Data Control Reports – Facility and Loan Level
+      • Generate Interest Certificate Development
+      • Credit Quality Report
+       o This report aims at monitoring the credit quality of the loans,
+         helping the RM to take corrective measures before it goes
+         delinquent
+
+
+ACBS Payments Engine/Intellimatch Payment Reconciliation for SEPA Direct
+Debits
+  • Business Requirements Documented for payment validation engine rules
+  • Business Requirements Documented for ACBS Intellimatch extracts used by
+    the reconciliations team to auto match ledger postings on ACBS and SAP
+    GL
+  • Business Requirements Documented for control reports put in place for
+    ACBS SEPA Direct Debits
+       o In Flight Payments Report
+       o Payment History Report
+       o EFT Payments Control Report
+  • Test Documentation: Review and Test Support
+  • Development Functional Support
+
+
+
+
+
+
+Basel II : RWA Calc Enhancement (repayment maturity duration) : Feed from
+ACBS to SAP BA – Part of Enhanced Risk Measures by the Bank
+      • Enhancement Documented with example from the live environment
+      • Analyze potential reduction in RWA by change implementation
+      • Business Requirements Documented for loans admin (Data remediation
+        report)
+      • Development support for SQL Development
+      • Functional support for SAP BA tester and System Testers
+      • UAT test support for business users
+
+
+BOBJ Migration – SAP XiR2 to SAP XiR3 : Irish Bank
+      • Migration of various corporate banking reports (Loan Admin/Finance)
+      • Support BOBJ developer on functional queries
+      • Verify test scenarios and test cases prepared as part of the
+        migration pack
+      • Co-ordinate for environment set up (DB links for migrated Universes)
+      • Test new folder structure and user access privileges
+
+
+Risk Adjusted Return on Capital (RAROC)
+  • Development of new Account level profitable data warehouse
+  • Lending NII sourced from 5 major lending applications across the bank,
+    these loan books constitute about 94% of the banks over asset book
+  • Sourced across corporate and retails lending application
+  • Integration of account level information with Credit MI information
+    from SAP Data house
+
+
+Change Implementation/Management
+      • Manage change implementation through ticketing application (ISM –
+        IBM Tool)
+      • Co-ordinate with infra vendor for implementation of software TAG’s
+        on production systems
+      • Provide support to production support staff and provide handover
+        documentation
+
+
+Treasury Applications: Summit FT/In House Data Warehouse Application –
+Basel III: Irish Bank
+  • Requirement gathering to full fill LCR requirements of the bank
+  • Business Requirement Documented for Liquid Assets Report, Funding
+    Extracts and Inter Group Trades Report
+  • Create and maintain File share location for
+    Analysis/Investigation/Development and Testing of extracts.
+  • Investigate functional/system related queries from the development team
+    and from business by querying the back end database using SQL
+  • Create mock reports with sample data from the live environment using
+    SQL
+  • Review and sign off test documentation (Test Strategy/Test
+    Cases/Traceability)
+  • Provide testing support for functional queries
+
+
+ACBS (Corporate Loan Servicing Application) Knowledge
+      • Understanding of the core application – Deal Loan Servicing
+      • Setting up of Customer-Facility-Loan
+      • Primary and Secondary Schedule creation
+      • Setting of Accrual Schedule at Loan Level  and  Creation  of  Future
+        Limit Changes at a facility level
+      • Good Understanding of ACBS Front end to Datamart Mapping (HTML  View
+        Code)
+      • Clear Understanding of ACBS Real-time and Datamart DB End of Day
+      •  Worked  on  real-time  ACBS  extracts  like  EFT  (Electronic  Fund
+        Transfer), Inter Group Funding Extracts.
+
+
+
+Chemoil Advanced  Management  Services  LTD  (Glencore)  –  (Chennai  India)
+                       (Jan’2008-May’2010)
+Risk Analyst
+Domain: Bunker Fuel Trading, Risk Management
+
+Role: Risk Reporting for Trading Desk
+Gathering legacy system related data from onsite stake holders and
+preparing requirement catalogues
+  • Role – Functionality Mapping
+  • As a primary user of the legacy system  which  involved  use  of  excel
+    sheets to monitor market and credit exposures my role was to  list  out
+    the typical problems faced by users and document them.
+  • The legacy system involved use of various applications  which  captured
+    volume,  price,  standard  deviation  etc.  My  role  was   to   insure
+    integration of all such data in the new system.
+
+
+UAT Support and bug reporting done for newly implemented risk management
+software
+  • Role – UAT, ST, Defects Tracking
+  • Check integrity of data that has been migrated from legacy systems  and
+    cleanse the database from duplicate and erroneous values.
+  • Cross train other team members
+
+
+Development and dissemination of market and credit risk reports to
+management on a daily basis
+  • Collate information from various systems and stakeholders
+  • Extensive use of excel sheet based models to collate and analyze data
+  • Justify MTM valuation benchmarks used for each index portfolio
+  • Update Forex valuation prices from Bloomberg terminal on a daily basis
+
+
+
+
+HSBC                Bank                LTD,                 Chennai/Ireland
+           (Feb’2007-Dec’2007)
+Asst Manager – Commercial Banking (SME Liabilities)
+Domain: Banking & Financial Services
+
+Role: Assistant Manager (CASA Acquisition and Cross Sales)
+Serviced commercial lending products like Warehouse  Receipt  Financing  and
+Factoring (domestic & Export)
+  • It involved extensive understanding of the customers business and trade
+    cycle
+  • Evaluate clients Maximum Bank Finance Permissible (MBFP)
+  • Capture customer initial credit information and input into system  (Net
+    worth, turnover, Working capital Gap Etc)
+
+
+Serviced Transaction Banking Services for HSBC, Chennai
+      • Trade  finance  products  like  LC  Advising,  LC  Confirmation,  LC
+        Forfaiting
+      • Import Documentary Collections, Export Collections,
+      • SBLC – Eligibility check and document collection
+
+Education
+
+    • Masters Business Administration (Finance & IT -2007)
+
+Cerification
+
+    • Certified SAFe® 6 Practitioner - verify
+    • Elements of AI – verify [pic]
+-----------------------
+1
+
+
