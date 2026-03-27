@@ -45,6 +45,7 @@
     /* ── Page wrapper ── */
     .page {
       width: 210mm;
+      max-width: 100%;
       background: var(--main-bg);
       display: grid;
       grid-template-columns: 62mm 1fr;
@@ -442,13 +443,94 @@
       border: 1px solid #C5DFF8;
     }
 
-    /* ── Print styles ── */
-    @media print {
+    /* ═══════════════════════════
+       MOBILE  (≤ 700px)
+    ═══════════════════════════ */
+    @media (max-width: 700px) {
       body {
-        background: none;
         padding: 0;
-        margin: 0;
+        background: var(--sidebar-bg);
+        align-items: stretch;
       }
+
+      .page {
+        width: 100%;
+        grid-template-columns: 1fr;   /* stack sidebar above main */
+        box-shadow: none;
+      }
+
+      .sidebar { padding-bottom: 20px; }
+
+      .sidebar::before { width: 120px; height: 120px; top: -30px; right: -30px; }
+      .sidebar::after  { width: 80px;  height: 80px; }
+
+      .profile-block { padding: 28px 20px 20px; }
+
+      .avatar-ring { width: 80px; height: 80px; }
+      .avatar-ring .avatar-inner { font-size: 22pt; }
+
+      .profile-name   { font-size: 16pt; }
+      .profile-title  { font-size: 9.5pt; }
+      .status-badge   { font-size: 8.5pt; }
+
+      .sidebar-section         { padding: 14px 20px 8px; }
+      .sidebar-section-title   { font-size: 8.5pt; }
+      .contact-list li         { font-size: 10pt; }
+      .contact-list li i       { font-size: 11pt; }
+      .skill-label             { font-size: 9pt; }
+      .dot-skill               { font-size: 9pt; }
+      .dot                     { width: 10px; height: 10px; }
+      .cert-item               { font-size: 9pt; }
+      .edu-degree              { font-size: 10pt; }
+      .edu-year                { font-size: 9pt; }
+
+      .main { padding: 22px 16px 28px; background: #fff; }
+
+      .main-header h1           { font-size: 18pt; }
+      .main-header .title-line  { font-size: 9.5pt; }
+      .main-header .location-line { font-size: 9pt; }
+
+      .section-title   { font-size: 9pt; }
+      .summary-text    { font-size: 9.5pt; }
+      .tag             { font-size: 8.5pt; padding: 4px 10px; }
+
+      .tl-item         { grid-template-columns: 14px 1fr; gap: 0 14px; padding-bottom: 18px; }
+      .tl-dot          { width: 14px; height: 14px; }
+      .tl-company      { font-size: 10pt; }
+      .tl-role         { font-size: 9pt; }
+      .tl-date         { font-size: 8.5pt; }
+      .tl-bullets li   { font-size: 9pt; }
+    }
+
+    /* ── Tablet  (701–900 px) ── */
+    @media (min-width: 701px) and (max-width: 900px) {
+      body { padding: 10px; }
+
+      .page {
+        width: 100%;
+        grid-template-columns: 150px 1fr;
+      }
+
+      .profile-name  { font-size: 11pt; }
+      .profile-title { font-size: 7pt; }
+      .avatar-ring   { width: 76px; height: 76px; }
+      .avatar-ring .avatar-inner { font-size: 22pt; }
+
+      .sidebar-section       { padding: 14px 14px 8px; }
+      .contact-list li       { font-size: 7pt; }
+      .skill-label           { font-size: 6.5pt; }
+      .dot-skill             { font-size: 6.5pt; }
+
+      .main { padding: 24px 18px 24px 16px; }
+      .main-header h1        { font-size: 17pt; }
+      .main-header .title-line { font-size: 8pt; }
+      .summary-text          { font-size: 7pt; }
+      .tl-bullets li         { font-size: 6.5pt; }
+    }
+
+    /* ── Print (A4 two-column) ── */
+    @media print {
+      body { background: none; padding: 0; margin: 0; }
       .page {
         width: 210mm;
         box-shadow: none;
